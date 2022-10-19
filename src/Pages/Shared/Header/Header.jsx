@@ -21,7 +21,8 @@ const Header = () => {
           </Nav>
         </Navbar.Collapse>
       </Container>
-    </Navbar>
+    </Navbar>    
+       
     );
 };
 
